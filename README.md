@@ -1,4 +1,4 @@
-# Matt's Notes for Introduction to the Mechanics of Solids (ES120) 
+# Notes for Introduction to the Mechanics of Solids (ES120) 
 ### Spring Semester 2018 - Harvard University 
 ### Head Instructor: Prof. Joost Vlassak
 
