@@ -1,2 +1,2 @@
 # Solutions to Midterm 2 Exam
-The solutions posted here are for reference only. If yous suspect that there are any errors, please let me know by emailing at [fernandes@g.harvard.edu](matilto:fernandes@g.harvard.edu)
+The solutions posted here are for reference only. If you suspect that there are any errors or have any questions, please let me know by emailing at [fernandes@g.harvard.edu](matilto:fernandes@g.harvard.edu)
