@@ -1,0 +1,2 @@
+# Solutions to Midterm 1 Exam
+The solutions posted here are for reference only. If you suspect that there are any errors or have any questions, please let me know by emailing at [fernandes@g.harvard.edu](matilto:fernandes@g.harvard.edu)
